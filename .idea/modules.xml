@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/600096-2223-memory-of-a-goldfish-richyy1.iml" filepath="$PROJECT_DIR$/.idea/600096-2223-memory-of-a-goldfish-richyy1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/memory_of_a_goldfish_ricards_masniks.iml" filepath="$PROJECT_DIR$/.idea/modules/memory_of_a_goldfish_ricards_masniks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/memory_of_a_goldfish_ricards_masniks.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/memory_of_a_goldfish_ricards_masniks.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/memory_of_a_goldfish_ricards_masniks.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/memory_of_a_goldfish_ricards_masniks.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/memory_of_a_goldfish_ricards_masniks.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/memory_of_a_goldfish_ricards_masniks.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/memory_of_a_goldfish_ricards_masniks.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/memory_of_a_goldfish_ricards_masniks.app.unitTest.iml" />
     </modules>
   </component>
 </project>
