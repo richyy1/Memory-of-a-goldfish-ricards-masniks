@@ -84,7 +84,7 @@ public class VolleyPuzzleRetriever implements VolleyJSONObjectResponse, VolleyIm
             ArrayList<Tile> tiles = parseJsonTiles(response);
 
             Tile tilebackTile = new Tile(tileBack);
-            com.memory.goldfish.volley.CustomImageRequest imageRequest = new com.memory.goldfish.volley.CustomImageRequest(tilebackTile.getImageUrl(), tilebackTile, this);
+            CustomImageRequest imageRequest = new CustomImageRequest(tilebackTile.getImageUrl(), tilebackTile, this);
 
             savePuzzleLocally(response);
             //Save puzzle locally
@@ -116,7 +116,7 @@ public class VolleyPuzzleRetriever implements VolleyJSONObjectResponse, VolleyIm
                 Tile tile = new Tile(pictureName);
 
 
-               com.memory.goldfish.volley.CustomImageRequest imageRequest = new com.memory.goldfish.volley.CustomImageRequest(tile.getImageUrl(), tile, this);
+               CustomImageRequest imageRequest = new CustomImageRequest(tile.getImageUrl(), tile, this);
 
                mRequestQueue.add(imageRequest.getImageRequest());
 

@@ -22,7 +22,7 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:background="@color/design_default_color_on_primary"
-            android:text="@string/play"
+            android:text="Play"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             tools:layout_editor_absoluteY="179dp" />
