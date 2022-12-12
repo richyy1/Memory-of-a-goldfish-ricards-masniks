@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MOAG</string>
+    <string name="timer_message" translatable="false">Upłynięty czas (w sekundach):</string>
+    <string name="welcome_message" translatable="false">Witaj w Memory of a Goldfish! Wybierz motyw</string>
+    <string name="play">Graj</string>
+    <string name="high_scores">Wyniki</string>
+    <string name="achievements">Osiągniecia</string>
+    <string name="settings">Opcje</string>
+    <string name="score_string">Wynik</string>
+    <string name="string_sequence_string">Najwyższa sekwencja:</string>
+    <string name="string_time_string">Upłynięty czas (w sekundach)</string>
+    <string name="string_turns_string">Tury:</string>
+    <string name="congratulations_string"><b>Gratulacje!</b></string>
+    <string name="num_turns">Liczba tur:</string>
+    <string name="match_sequence_string">Najdłuższa sekwencja w grze:</string>
+    <string name="new_game">Nowa gra</string>
+    <string name="main_menu">Główne menu</string>
+    <string name="enter_name">Wprowadź swoje imię!</string>
+</resources>
